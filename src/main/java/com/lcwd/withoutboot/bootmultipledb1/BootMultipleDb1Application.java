@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BootMultipleDb1Application {
 
     public static void main(String[] args) {
+        System.out.println("This is me Kamal Bajaj");
         SpringApplication.run(BootMultipleDb1Application.class, args);
     }
 
